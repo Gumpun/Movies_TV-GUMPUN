@@ -6,7 +6,7 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations": [
 {
-"name": " 5 July 2021 ",
+"name": " 6 July 2021 ",
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
 "url": "xxx",
 "info": " Gumpun แบ่งปันiptv ",
@@ -17,7 +17,7 @@
 "image":"https://sv1.picz.in.th/images/2021/07/05/srpnBf.png",
 "url": "xxx",
 "referer": "https://sv1.picz.in.th/images/2021/07/05/srpnBf.png",
-"info": " ขออภัยในความไม่สะดวก ",
+"info": " หากช่องไหนรับชมไม่ได้กรุณาแจ้ง ",
 "playInNatPlayer": "true"
 },
 {
@@ -149,23 +149,165 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "xxx",
-"image":"xxx",
-"url": "xxx",
+"name": " FX HD ",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8ckjl.png",
+"url": "https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8",
 "referer": "xxx",
 "info": " Gumpun แบ่งปันIPTV ",
 "playInNatPlayer": "true"
 },
-
 {
-"name": "รออัพเดทรายการ",
-"image":"https://sv1.picz.in.th/images/2021/07/05/srVGTQ.png",
-"url": "https://pastebin.com/raw/3pL3YN8R",
-"referer": "Gumpun",
-"info": " ช่องกำลังพัฒนารายการใหม่ๆอยู่ ",
+"name": " FX HD ",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8ckjl.png",
+"url": "https://bozztv.com/teleyupp/teleup-fxhd/tracks-v1a1/mono.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "HBO",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8ZeZb.png",
+"url": "https://www.we-play.live/watching/tv/hbo-hd",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8ZeZb.png",
+"url": "https://wacth.tv/tv-player/hbo-asia.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Family",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8c3vk.png",
+"url": "https://wacth.tv/tv-player/hbo-family.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Family",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8c3vk.png",
+"url": "https://wacth.tv/tv-player/hbo-family.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Hits",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cK0V.png",
+"url": "https://wacth.tv/tv-player/hbo-hits.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Hits",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cK0V.png",
+"url": "http://gg.gg/Hbo_hits",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Asian Series",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cZcQ.png",
+"url": "https://wacth.tv/tv-player/asian-series.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Asian Series",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cZcQ.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film Asia",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cRTg.png",
+"url": "https://wacth.tv/tv-player/true-film-asia.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film Asia",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cRTg.png",
+"url": "http://gg.gg/truefasia",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8c5Uy.png",
+"url": "https://wacth.tv/tv-player/true-film-asia.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film HD",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8c5Uy.png",
+"url": "https://www.we-play.tv/watching/tv/true-film-hd",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film HD2",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cjcJ.png",
+"url": "https://wacth.tv/tv-player/true-film-hd2.html",
+"referer": "https://wacth.tv",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film HD2",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cjcJ.png",
+"url": "http://gg.gg/truefa2",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Thai Film",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cPlq.png",
+"url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Thai Film",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8cPlq.png",
+"url": "https://dogtoop.com:8443/thaifilm/789/99",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Warner TV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8csGz.png",
+"url": "http://203.154.177.1หากช่องไหนรับชมไม่ได้กรุณาแจ้งในกลุ่ม8899/live/ch12/playlist.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Warner TV",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8csGz.png",
+"url": "http://203.154.243.89:11205/",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
 
 
 
