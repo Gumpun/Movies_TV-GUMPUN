@@ -6,7 +6,7 @@
 "info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
 "stations": [
 {
-"name": " 8 July 2021 ",
+"name": "11 July 2021 ",
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
 "url": "xxx",
 "info": " Gumpun แบ่งปันiptv ",
@@ -103,15 +103,15 @@
 {
 "name": "Fox ไทย",
 "image":"https://sv1.picz.in.th/images/2021/07/08/sa0vKE.png",
-"url": "https://wacth.tv/tv-player/fox-thai.html",
-"referer": "https://wacth.tv",
+"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"referer": "https://www.we-play.tv/",
 "info": " Gumpun แบ่งปันIPTV ",
 "playInNatPlayer": "true"
 },
 {
 "name": "Fox ไทย",
 "image":"https://sv1.picz.in.th/images/2021/07/08/sa0vKE.png",
-"url": "https://www.we-play.tv/watching/tv/fox-thai",
+"url": "https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8",
 "referer": "xxx",
 "info": " Gumpun แบ่งปันIPTV ",
 "playInNatPlayer": "true"
